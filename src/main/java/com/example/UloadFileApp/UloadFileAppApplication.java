@@ -1,0 +1,13 @@
+package com.example.UloadFileApp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UloadFileAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UloadFileAppApplication.class, args);
+	}
+
+}
